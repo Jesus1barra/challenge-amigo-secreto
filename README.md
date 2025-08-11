@@ -3,3 +3,5 @@
 - Estructuración del proyecto.
 
 - Se crea función "agregarAmigo" para el input de datos.
+
+- Se crea el sistema de registro local y en git hub.
